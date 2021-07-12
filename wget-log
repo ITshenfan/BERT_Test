@@ -1,0 +1,81 @@
+--2021-07-08 21:06:08--  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在解析主机 storage.googleapis.com (storage.googleapis.com)... 172.217.25.48
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:07:25--  (尝试次数： 2)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:08:24--  (尝试次数： 3)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:09:42--  (尝试次数： 4)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:11:02--  (尝试次数： 5)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:12:23--  (尝试次数： 6)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:13:45--  (尝试次数： 7)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:15:08--  (尝试次数： 8)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:16:31--  (尝试次数： 9)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:17:56--  (尝试次数：10)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:19:21--  (尝试次数：11)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:20:47--  (尝试次数：12)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:22:13--  (尝试次数：13)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:23:39--  (尝试次数：14)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:25:04--  (尝试次数：15)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:26:30--  (尝试次数：16)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:27:56--  (尝试次数：17)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:29:21--  (尝试次数：18)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:30:47--  (尝试次数：19)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+重试中。
+
+--2021-07-08 21:32:12--  (尝试次数：20)  https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+正在连接 storage.googleapis.com (storage.googleapis.com)|172.217.25.48|:443... 失败：Operation timed out。
+放弃操作。
+
